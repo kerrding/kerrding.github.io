@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a CS Ph.D. student in the School of Computational Science and Engineering, Georgia Institute of Technology.
+I am a CS Ph.D. student in the School of Computational Science and Engineering, Georgia Institute of Technology. My advisor is Prof. Yunan Luo.
 
 I am broadly interested in machine learning and computational biology. I am devoted to developing novel machine learning tools to aid biological research. In specific, I am interested in leveraging machine learning tools to solve protein-related problems, which I believe is and will be a even more important key to biomedicine in the future.
