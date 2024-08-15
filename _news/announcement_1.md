@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-11
 inline: true
 ---
 
-More info and publications coming soon! (Hopefully)
+Our paper on [***Supervised biological network alignment***](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i465/7210461) has been accepted for presentation at ISMB 2023, which will be held on July 23-27 in Lyon, France!
