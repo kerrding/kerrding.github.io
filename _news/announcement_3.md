@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-07-29
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+One paper on [***ML-guided combinatorial library design in enzyme engineering***](https://www.nature.com/articles/s41467-024-50698-y) has been published in Nature Communications.
