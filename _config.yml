@@ -48,11 +48,11 @@ rss_icon: true
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: true # set to false to disable the fixed
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions

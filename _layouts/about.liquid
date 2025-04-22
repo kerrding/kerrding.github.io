@@ -65,11 +65,8 @@ layout: default
     {% endif %}
 
     <!-- Selected projects -->
-    {% if page.selected_projects %}
-      <h2>
-        Academic Services
-      </h2>
-      {% include selected_projects.liquid %}
+    {% if page.services %}
+      {% include services.liquid %}
     {% endif %}
 
     <!-- Social -->
