@@ -23,7 +23,7 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-on-ml-guided-combinatorial-library-design-in-enzyme-engineering-has-been-published-in-nature-communications",
           title: 'One paper on ML-guided combinatorial library design in enzyme engineering has been published...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-ml-guided-combinatorial-library-design-in-enzyme-engineering-has-been-selected-for-presentation-in-the-highlights-track-at-recomb-2025",
+          section: "News",},{id: "news-our-paper-on-ml-guided-combinatorial-library-design-in-enzyme-engineering-has-been-selected-for-presentation-in-the-highlights-track-at-recomb-2025-occurring-april-26-29-in-seoul-south-korea-i-will-also-be-presenting-the-proceeding-paper-learning-maximally-spanning-representations-improves-protein-function-annotation-on-behalf-of-my-labmate-jiaqi-luo",
           title: 'Our paper on ML-guided combinatorial library design in enzyme engineering has been selected...',
           description: "",
           section: "News",},{id: "projects-project-1",
