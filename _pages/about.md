@@ -21,10 +21,9 @@ services: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third-year CS Ph.D. student in the [School of Computational Science and Engineering](https://cse.gatech.edu/), [Georgia Institute of Technology](https://gatech.edu/), where I am fortunate to be advised by [Prof. Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). Before this, I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/).
+I am a fourth-year CS Ph.D. candidate in the [School of Computational Science and Engineering](https://cse.gatech.edu/), [Georgia Institute of Technology](https://gatech.edu/), where I am fortunate to be advised by [Prof. Yunan Luo](https://faculty.cc.gatech.edu/~yunan/). Before this, I obtained my bachelor's degree from [Peking University](https://english.pku.edu.cn/).
 
 My research interests lie at the intersection of machine learning (ML) and computational biology. I am broadly interested in developing novel ML tools to accelerate biological research, with a particular focus on tackling protein-related challenges. My primary research focuses include:
-- Machine learning-guided protein engineering
-- Biological network alignment
-- Protein function prediction
+- Developing foundational models for protein engineering and protein design
+- Scalable and generalizable characterization of protein functions
 
