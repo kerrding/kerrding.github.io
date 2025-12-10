@@ -1,0 +1,1 @@
+I have been invited to present our methodology for variant effect prediction at CAGI7, which will be held December 6-8 in Boston, MA! 
