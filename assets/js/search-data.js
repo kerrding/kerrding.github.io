@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-deconvolving-mutation-effects-on-protein-stability-and-function-has-been-accepted-for-presentation-at-recomb-2026-which-will-be-held-on-may-26-29-in-thessaloniki-greece",
           title: 'Our paper on Deconvolving mutation effects on protein stability and function has been...',
           description: "",
+          section: "News",},{id: "news-our-work-on-deconvolving-mutation-effects-on-protein-stability-and-function-has-been-accepted-for-a-selected-talk-at-the-new-england-computational-biology-symposium-necb-2026-which-will-be-held-on-october-1-2-in-cambridge-ma",
+          title: 'Our work on Deconvolving mutation effects on protein stability and function has been...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -97,6 +100,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/kerr-ding-9648a9327", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/KerrDing_00", "_blank");
         },
       },{
         id: 'social-orcid',
