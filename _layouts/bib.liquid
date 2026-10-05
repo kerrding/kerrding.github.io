@@ -58,10 +58,14 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
+      {%- assign self_full_name = site.scholar.first_name | first | append: ' ' | append: site.scholar.last_name[0] -%}
+      {%- assign self_full_name_em = '<em>' | append: self_full_name | append: '</em>' -%}
+
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
+        {%- assign author_last_html = author_last_html | replace: self_full_name, self_full_name_em -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}

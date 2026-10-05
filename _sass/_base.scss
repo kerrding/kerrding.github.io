@@ -771,8 +771,12 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
+
+          sup {
+            font-weight: normal;
+          }
         }
 
         > span.more-authors {
